@@ -1,2 +1,2 @@
 # TRD
-The TangRui annotation method of arbitrary-oriented bounding box and the TRD object detector 
+The TangRui annotation method (TRA) of arbitrary-oriented bounding box and the TangRui object detector (TRD). 
